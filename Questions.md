@@ -1,4 +1,4 @@
-# Sharath Reddy Vontari (shvo9452)**
+# Sharath Reddy Vontari (shvo9452)
 ## SOLUTIONS
 #### Question 1
 - The broken program doesn't work because the queue object is not synchronized. 
